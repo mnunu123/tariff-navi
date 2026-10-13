@@ -1,0 +1,4052 @@
+[
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.11.10",
+  "desc": "Iron or steel, portable non-electric domestic cooking appliances and plate warmers, for gas fuel or for both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.11.30",
+  "desc": "Iron or steel, nonportable non-electric domestic stoves or ranges, for gas fuel or for both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.11.60",
+  "desc": "Iron or steel, nonportable non-electric domestic cooking appliances (other than stoves or ranges) and plate warmers, for gas fuel or both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.12.00",
+  "desc": "Iron or steel, non-electric domestic cooking appliances and plate warmers, for liquid fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.19.00",
+  "desc": "Iron or steel, non-electric domestic cooking appliances and plate warmers, other than for gas or liquid fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.81.10",
+  "desc": "Iron or steel, portable non-electric domestic grates and warming appliances (other than cooking or plate warmers), for gas fuel or both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.81.50",
+  "desc": "Iron or steel, nonportable non-electric domestic grates and warming appliances (other than cooking or plate warmers), for gas fuel or both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.82.10",
+  "desc": "Iron or steel, portable non-electric domestic grates and warming appliances (other than cooking or plate warmers), for liquid fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.82.50",
+  "desc": "Iron or steel, nonportable non-electric domestic grates and warming appliances (other than cooking or plate warmers), for liquid fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.89.00",
+  "desc": "Iron or steel, non-electric domestic grates and warming appliances (other than cooking or plate warmers), other than for gas or liquid fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.90.10",
+  "desc": "Iron or steel, cooking chambers for nonportable non-electric domestic stoves or ranges, for gas or for both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.90.20",
+  "desc": "Iron or steel, top surface panels with or without burners or controls for nonportable non-electric domestic stoves or ranges, for gas or for both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.90.40",
+  "desc": "Iron or steel, door assemblies with more than one inner panel, outer panel, window or insulation, for non-electric stoves or ranges, for gas or for both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.90.50",
+  "desc": "Iron or steel, parts of nonportable non-electric domestic stoves or ranges, nesoi, for gas fuel or for both gas and other fuels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7321.90.60",
+  "desc": "Iron or steel, parts of nonelectric domestic cooking and warming appliances, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7322.19.00",
+  "desc": "Iron (other than cast) or steel, non-electrically heated radiators and parts thereof, for central heating",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7322.90.00",
+  "desc": "Iron or steel, non-electrically heated air heaters and hot air distributors with motor-driven fan or blower and parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.10.00",
+  "desc": "Iron or steel wool; iron or steel pot scourers and scouring or polishing pads, gloves and the like",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.93.00",
+  "desc": "Stainless steel, table, kitchen or other household articles and parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.94.00",
+  "desc": "Iron (other than cast) or steel (other than stainless), table, kitchen or other household articles and parts thereof, enameled",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.99.10",
+  "desc": "Iron (other than cast) or steel (other than stainless), table, kitchen or other household articles and parts thereof, not enameled but plated or coated with silver",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.99.30",
+  "desc": "Iron (other than cast) or steel (other than stainless), table, kitchen or other household articles and parts thereof, not enameled but plated or coated with precious metal other than silver",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.99.50",
+  "desc": "Tinplate, table, kitchen or other household articles and parts thereof, not coated or plated with precious metal, of tinplate",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.99.70",
+  "desc": "Iron (other than cast) or steel (other than tinplate or stainless), cookingware, not coated or plated with precious metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7323.99.90",
+  "desc": "Iron (other than cast) or steel (other than tinplate or stainless), table, kitchen or other household articles and parts thereof (other than cookingware), not coated or plated with precious metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7324.10.00",
+  "desc": "Stainless steel, sinks and wash basins",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7324.29.00",
+  "desc": "Iron (other than cast) or steel, baths (whether or not enameled)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7324.90.00",
+  "desc": "Iron or steel, sanitary ware (other than baths or stainless steel sinks and wash basins) and parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7325.10.0035",
+  "desc": "Meter boxes of nonmalleable cast iron",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.20.0010",
+  "desc": "Belts and belting of iron or steel wire",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.20.0020",
+  "desc": "Garment wire hangers of iron or steel",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.20.0030",
+  "desc": "Sod staples, U staples, irrigation staples, ground staples and ground pins of iron or steel wire (not household articles)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.20.0040",
+  "desc": "Double loop bar ties and double loop wire ties of iron or steel wire (not household articles)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.20.0055",
+  "desc": "Paint roller frames of iron or steel wire",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.90.35",
+  "desc": "Containers of a kind normally carried on the person, in the pocket or in the handbag, of iron or steel",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.90.45",
+  "desc": "Horse and mule shoes of iron or steel",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.90.8660",
+  "desc": "Ladders of iron or steel",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.90.8675",
+  "desc": "Paint roller frames of iron or steel, other than of wire",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.90.8676",
+  "desc": "Metal handles for brooms, mops, paint applicators and similar products",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "7326.90.8677",
+  "desc": "Burial caskets of iron or steel",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8202.39.0040",
+  "desc": "Diamond sawblade cores, of base metal, and parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8203.40.60",
+  "desc": "Pipe cutters, bolt cutters, perforating punches and similar tools, nesoi, and base metal parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8205.59.55",
+  "desc": "Iron or steel handtools (other than household and other than caulking guns) nesoi, and base metal parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8205.70.00",
+  "desc": "Vises, clamps and the like, and base metal parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.10.00",
+  "desc": "Sets of assorted knives with cutting blades, serrated or not (including pruning knives)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.91.10",
+  "desc": "Table knives with fixed blades and silver-plated handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.91.20",
+  "desc": "Table knives with fixed blades, with stainless steel handles containing nickel or over 10% by weight of manganese, with an overall length of 25.9 cm or less and valued at less than 25 cents each",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.91.25",
+  "desc": "Table knives with fixed blades, with stainless steel handles containing nickel or over 10% by weight of manganese, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.91.30",
+  "desc": "Table knives with fixed blades, with stainless steel handles, nesoi, not over 25.9 cm in overall length and valued at less than 25 cents each",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.91.40",
+  "desc": "Table knives with fixed blades, with stainless steel handles, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.91.50",
+  "desc": "Table knives with fixed blades, with rubber or plastic handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.91.80",
+  "desc": "Table knives with fixed blades, with handles other than of silver-plate, stainless steel, rubber or plastics",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.92.20",
+  "desc": "Kitchen and butcher knives with fixed blades, with rubber or plastic handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.92.40",
+  "desc": "Knives with fixed blades (other than table or kitchen and butcher knives), with rubber or plastic handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.92.60",
+  "desc": "Hunting knives with fixed blades, with wood handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.92.90",
+  "desc": "Knives with fixed blades (other than table knives, other knives with rubber or plastic handles, or hunting knives with wood handles)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.93.00",
+  "desc": "Knives having other than fixed blades",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.94.10",
+  "desc": "Base metal blades for knives having fixed blades",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.94.50",
+  "desc": "Base metal blades for knives having other than fixed blades",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.95.10",
+  "desc": "Base metal handles for table knives with fixed blades",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.95.50",
+  "desc": "Base metal handles for knives (other than table knives) with fixed blades",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8211.95.90",
+  "desc": "Base metal handles for knives having other than fixed blades",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.10.00",
+  "desc": "Sets of assorted base metal spoons, forks, ladles, etc. and similar kitchen or tableware, with at least one article plated with precious metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.20.00",
+  "desc": "Sets of assorted base metal spoons, forks, ladles, etc. and similar kitchen or tableware, with no articles plated with precious metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.91.30",
+  "desc": "Base metal forks plated with precious metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.91.60",
+  "desc": "Base metal spoons and ladles plated with precious metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.91.90",
+  "desc": "Base metal skimmers, cake-servers, fish-knives, etc. and similar kitchen or tableware and parts, plated with precious metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.01",
+  "desc": "Base metal forks, with stainless steel handles containing nickel or over 10% by weight of manganese, with an overall length not over 25.9 cm, valued at under 25 cents each",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.05",
+  "desc": "Base metal forks, with stainless steel handles containing nickel or over 10% by weight of manganese, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.10",
+  "desc": "Base metal forks, with stainless steel handles, nesoi, valued at under 25 cents each",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.15",
+  "desc": "Base metal forks, with stainless steel handles, nesoi, valued at 25 cents each or more",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.20",
+  "desc": "Base metal forks, with rubber or plastic handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.22",
+  "desc": "Base metal forks, without their handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.24",
+  "desc": "Base metal table forks and barbecue forks, with wooden handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.26",
+  "desc": "Base metal forks (other than plated with precious metal or with handles of stainless steel, wood, rubber or plastics), nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.30",
+  "desc": "Base metal spoons, with stainless steel handles and valued at under 25 cents each",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.35",
+  "desc": "Base metal spoons, with stainless steel handles and valued at 25 cents and over, and base metal ladles with stainless steel handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.40",
+  "desc": "Base metal spoons and ladles with handles of base metal (other than stainless steel) or with nonmetal handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.45",
+  "desc": "Base metal spoons and ladles, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8215.99.50",
+  "desc": "Base metal skimmers, cake-servers, butter knives, sugar tongs and similar kitchen or tableware, and base metal parts thereof (including parts of forks or spoons)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8302.10.60",
+  "desc": "Hinges, of base metal, other",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8302.41.30",
+  "desc": "Base metal door closers (except automatic door closers) suitable for buildings, and base metal parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8302.41.60",
+  "desc": "Iron, steel, aluminum or zinc mountings, fittings and similar articles, nesoi, suitable for buildings, and base metal parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8302.42.30",
+  "desc": "Other mountings, fittings and similar articles, suitable for furniture, of aluminum",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8302.49.60",
+  "desc": "Other mountings, fittings and similar articles, of base metal, other",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8305.20.00",
+  "desc": "Base metal staples in strips (e.g., for offices, upholstery, packaging)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8307.10.60",
+  "desc": "Iron or steel flexible tubing, without fittings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8309.90.0080",
+  "desc": "Other stoppers, caps, lids, and other packaging accessories and parts thereof made of steel",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8403.10.00",
+  "desc": "Central heating boilers (other than those of heading 8402)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8406.90.40",
+  "desc": "Parts of steam turbines, blades, rotating or stationary",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8407.90.90",
+  "desc": "Spark-ignition rotary or reciprocating internal-combustion piston engines, for machinery or equipment, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8410.90.00",
+  "desc": "Parts, including regulators, for hydraulic turbines and water wheels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8411.81.80",
+  "desc": "Gas turbines other than turbojets or turbopropellers, of a power not exceeding 5,000 kW, other than for aircraft",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8412.21.00",
+  "desc": "Hydraulic power engines and motors, linear-acting (cylinders)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8412.29.80",
+  "desc": "Other hydraulic power engines and motors",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8412.90.9070",
+  "desc": "Wind turbine blades, imported in accordance with statistical note 2 of chapter 84 to the HTSUS",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8412.90.9075",
+  "desc": "Wind turbine hubs",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8413.81.00",
+  "desc": "Pumps",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8413.91.9055",
+  "desc": "Parts of hydraulic fluid power pumps, fluid end blocks",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8413.91.9060",
+  "desc": "Parts of hydraulic fluid power pumps, other than fluid end blocks",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8413.91.9096",
+  "desc": "Parts of pumps, other",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8414.30.40",
+  "desc": "Compressors of a kind used in refrigerating equipment, not exceeding 1/4 horsepower",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8414.80.16",
+  "desc": "Air or gas compressors other than turbochargers and superchargers",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8414.90.30",
+  "desc": "Stators and rotors of air or gas compressors of a kind used in refrigerating equipment",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8414.90.41",
+  "desc": "Parts of fans",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8415.10.30",
+  "desc": "Window- or wall-type air conditioning machines, self-contained",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8415.83.00",
+  "desc": "Other air-conditioning machines, not incorporating a refrigerating unit",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8415.90.40",
+  "desc": "Chassis, chassis bases and outer cabinets of air-conditioning machines",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8418.10.00",
+  "desc": "Combined refrigerator-freezers, fitted with separate external doors",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8418.21.00",
+  "desc": "Refrigerators, household compression-type, electric or other, other than those of subheading 8418.10",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8418.29.20",
+  "desc": "Refrigerators, household type, electric or other, other than those of subheading 8418.10, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8418.30.00",
+  "desc": "Freezers of the chest type, not exceeding 800 l capacity",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8418.40.00",
+  "desc": "Freezers of the upright type, not exceeding 900 l capacity",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8418.99.40",
+  "desc": "Door assemblies for refrigerators, freezers and other refrigerating or freezing equipment incorporating more than one inner panel, outer panel, insulation, hinges or handles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8422.11.00",
+  "desc": "Dishwashing machines of the household type",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8425.42.00",
+  "desc": "Jacks and hoists, hydraulic, not of a built-in type used in garages",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8426.20.00",
+  "desc": "Tower cranes",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8426.49.00",
+  "desc": "Derricks, cranes and other lifting machinery nesoi, self-propelled, not on tires",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8426.99.00",
+  "desc": "Derricks, cranes and other lifting machinery nesoi, not designed for mounting on road vehicles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8431.31.00",
+  "desc": "Parts suitable for use solely or principally with passenger or freight elevators other than continuous action, skip hoists or escalators",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8431.43.40",
+  "desc": "Parts for offshore oil and natural gas drilling and production platforms",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8431.43.80",
+  "desc": "Parts for boring or sinking machinery of headings 8430.41 or 8430.49, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8431.49.10",
+  "desc": "Parts suitable for use solely or principally with the machinery of heading 8426, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8433.11.00",
+  "desc": "Mowers for lawns, parks or sports grounds, powered, with the cutting device rotating in a horizontal plane",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8433.90.10",
+  "desc": "Parts of mowers for lawns, parks or sports grounds",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8443.16.00",
+  "desc": "Flexographic printing machinery",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 5
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8450.11.00",
+  "desc": "Household- or laundry-type washing machines, each of a dry linen capacity not exceeding 10 kg, fully automatic",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8450.20.00",
+  "desc": "Household- or laundry-type washing machines, each of a dry linen capacity exceeding 10 kg",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8451.21.00",
+  "desc": "Drying machines, each of a dry linen capacity not exceeding 10 kg",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8451.29.00",
+  "desc": "Drying machines for yarns, fabrics or made up textile articles, each of a dry linen capacity exceeding 10 kg",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8479.90.45",
+  "desc": "Parts of trash compactors, frame assemblies incorporating more than one baseplate, side frame, power screw or front plate",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8479.90.55",
+  "desc": "Parts of trash compactors, ram assemblies incorporating a ram wrapper or ram cover",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8479.90.65",
+  "desc": "Parts of trash compactors, container assemblies incorporating more than one container bottom, container wrapper, slide track or container front",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8479.90.75",
+  "desc": "Parts of trash compactors, cabinets or cases",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8479.90.85",
+  "desc": "Parts of trash compactors, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5004",
+  "desc": "Unground bearings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5008",
+  "desc": "Thrust ball bearings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5012",
+  "desc": "Linear ball bearings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5016",
+  "desc": "Angular contact bearings, wheel hub units, flanged",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5024",
+  "desc": "Angular contact bearings, wheel hub units, other than flanged",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5028",
+  "desc": "Angular contact ball bearings, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5032",
+  "desc": "Radial bearings, single row, maximum or full capacity type",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5036",
+  "desc": "Radial bearings, single row, having an outside diameter of under 9 mm",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5052",
+  "desc": "Radial bearings, single row, having an outside diameter of over 52 mm but not over 100 mm",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5056",
+  "desc": "Radial bearings, single row, having an outside diameter of over 100 mm",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5060",
+  "desc": "Ball bearings, double row, radial",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5064",
+  "desc": "Radial ball bearings, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.10.5068",
+  "desc": "Ball bearings, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.20.0064",
+  "desc": "Tapered roller bearings, cup and cone assemblies entered as a set, with cups having an outside diameter exceeding 203 mm but not exceeding 305 mm",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.20.0067",
+  "desc": "Tapered roller bearings, cup and cone assemblies entered as a set, exceeding 305 mm",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.20.0090",
+  "desc": "Tapered roller bearings, cone assemblies entered separately, exceeding 203 mm",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.99.05",
+  "desc": "Inner or outer rings or races for ball bearings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.99.15",
+  "desc": "Inner or outer rings or races for tapered roller bearings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.99.25",
+  "desc": "Inner or outer rings or races for other bearings, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.99.35",
+  "desc": "Parts of ball bearings (including parts of ball bearings with integral shafts), nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.99.45",
+  "desc": "Parts of tapered roller bearings, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 6
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8482.99.65",
+  "desc": "Parts of other ball or roller bearings, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.10.1010",
+  "desc": "Camshafts and crankshafts, of iron or steel, designed for use solely or principally with spark-ignition internal combustion piston engines or rotary engines, for motorcycles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.10.1050",
+  "desc": "Camshafts and crankshafts, of iron or steel, designed for use solely or principally with spark-ignition internal combustion piston engines or rotary engines, other than for motorcycles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.10.50",
+  "desc": "Transmission shafts and cranks, other",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.20.40",
+  "desc": "Housed bearings of the flange, take-up, cartridge and hanger unit type (incorporating ball or roller bearings)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.20.80",
+  "desc": "Housed bearings (incorporating ball or roller bearings), nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.30.40",
+  "desc": "Bearing housings, not incorporating ball or roller bearings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.30.80",
+  "desc": "Bearing housings, other",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.40.10",
+  "desc": "Gears and gearing, torque converters",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.40.5020",
+  "desc": "Gear boxes and speed changers for wind turbines, as described in statistical note 6 to chapter 84 of the HTSUS",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.40.90",
+  "desc": "Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements entered separately",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.50.60",
+  "desc": "Flywheels",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.50.90",
+  "desc": "Pulleys and pulley blocks, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.60.40",
+  "desc": "Clutches and universal joints",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.90.30",
+  "desc": "Parts of bearing housings and plain shaft bearings, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.90.50",
+  "desc": "Parts of gearing, gear boxes and other speed changers",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.90.70",
+  "desc": "Parts of articles of subheading 8483.20",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8483.90.80",
+  "desc": "Parts of transmission shafts (including camshafts and crankshafts) and cranks, ball or roller screws, flywheels and pulleys including pulley blocks, and clutches and shaft couplings (including universal joints), nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8501.53.60",
+  "desc": "AC motors, multi-phase, of an output of 149.2 kW or more but not exceeding 150 kW",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8501.53.80",
+  "desc": "AC motors nesoi, multi-phase, of an output exceeding 150 kW",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8501.64.0110",
+  "desc": "AC generators (alternators) for wind-powered generating sets classified within heading 8502.31.00",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8502.31.00",
+  "desc": "Electric generating sets, wind-powered",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8503.00.35",
+  "desc": "Stators and rotors for electric motors and generators of heading 8501 that are under 18.65 W",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8503.00.65",
+  "desc": "Stators and rotors for electric motors and generators of heading 8501, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8503.00.75",
+  "desc": "Parts of electric motors under 18.65 W, other than commutators, stators or rotors",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8503.00.95",
+  "desc": "Other parts, nesoi, suitable for use solely or principally with the machines in headings 8501 or 8502",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8504.21.00",
+  "desc": "Liquid dielectric transformers having a power-handling capacity not exceeding 650 kVA",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 7
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8504.22.00",
+  "desc": "Liquid dielectric transformers having a power-handling capacity exceeding 650 kVA but not exceeding 10,000 kVA",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8504.32.00",
+  "desc": "Electrical transformers other than liquid dielectric, having a power- handling capacity exceeding 1 kVA but not exceeding 16 kVA",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8504.33.00",
+  "desc": "Electrical transformers other than liquid dielectric, having a power- handling capacity exceeding 16 kVA but not exceeding 500 kVA",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8504.90.9634",
+  "desc": "Laminations for incorporation into stacked cores, transformer parts",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8504.90.9638",
+  "desc": "Stacked cores for incorporation into transformers",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8504.90.9642",
+  "desc": "Wound cores for incorporation into transformers",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8509.80.20",
+  "desc": "Electromechanical kitchen waste disposers (disposals), with self- contained electric motor, for domestic uses",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8514.20.40",
+  "desc": "Industrial or laboratory microwave ovens for making hot drinks, or for cooking or heating food",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8514.20.60",
+  "desc": "Industrial or laboratory microwave ovens, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8516.60.40",
+  "desc": "Electrothermic cooking stoves, ranges and ovens (excluding microwave ovens), of a kind used for domestic purposes",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8516.60.60",
+  "desc": "Electrothermic cookers, cooking plates, boiling rings, grillers and roasters, nesoi, of a kind used for domestic purposes",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8547.90.00",
+  "desc": "Electrical conduit tubing and joints therefor, of base metal lined with insulating material; insulating fittings for electrical goods nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8601.10.00",
+  "desc": "Rail locomotives powered from an external source of electricity",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8601.20.00",
+  "desc": "Rail locomotives powered by electric accumulators (batteries)",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8602.10.00",
+  "desc": "Diesel-electric locomotives",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8602.90.00",
+  "desc": "Rail locomotives (other than diesel-electric), non-electric; locomotive tenders",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8603.10.00",
+  "desc": "Self-propelled railway or tramway coaches, vans and trucks (other than those of heading 8604), powered from an external source of electricity",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8603.90.00",
+  "desc": "Self-propelled railway or tramway coaches, vans and trucks (other than those of heading 8604), other than powered from an external source of electricity",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8604.00.00",
+  "desc": "Railway or tramway maintenance or service vehicles, whether or not self-propelled",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8605.00.00",
+  "desc": "Railway or tramway passenger coaches and special-purpose railway or tramway coaches, not self-propelled",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8606.10.00",
+  "desc": "Railway or tramway tank cars, not self-propelled",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.11.00",
+  "desc": "Parts of railway or tramway locomotives or rolling stock, truck assemblies for self-propelled vehicles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.19.03",
+  "desc": "Axles for railway or tramway locomotives or rolling stock",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.19.06",
+  "desc": "Parts of axles for railway or tramway locomotives or rolling stock",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.19.12",
+  "desc": "Wheels, whether or not fitted with axles, for railway or tramway locomotives or rolling stock",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.19.15",
+  "desc": "Parts of wheels for railway or tramway locomotives or rolling stock",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.19.90",
+  "desc": "Parts of truck assemblies of vehicles other than of heading 8605 or 8606",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 8
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.21.50",
+  "desc": "Air brakes and parts thereof for vehicles other than of heading 8605 or 8606",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.30.10",
+  "desc": "Hooks and other coupling devices, buffers, and parts thereof for vehicles of heading 8605 or 8606",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.30.50",
+  "desc": "Parts of railway or tramway locomotives or rolling stock, hooks and other coupling devices, buffers, parts thereof, for stock of headings 8601 to 8605",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.91.00",
+  "desc": "Parts, nesoi, of railway or tramway locomotives",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8607.99.50",
+  "desc": "Parts, nesoi, of railway or tramway rolling stock, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8609.00.00",
+  "desc": "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8701.21.0080",
+  "desc": "Road tractors for semi-trailers, with compression-ignition engine, used",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8701.22.0080",
+  "desc": "Road tractors for semi-trailers, with both compression-ignition engine and electric motor, used",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8701.23.0080",
+  "desc": "Road tractors for semi-trailers, with both spark-ignition engine and electric motor, used",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8701.24.0080",
+  "desc": "Road tractors for semi-trailers, with only electric motor, used",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8701.29.0080",
+  "desc": "Road tractors for semi-trailers, used, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8702.10.31",
+  "desc": "Motor vehicles with diesel engine, to transport 16 or more persons, including driver",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8702.10.61",
+  "desc": "Motor vehicles with diesel engine, to transport 10 to 15 persons, including driver",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8703.10.10",
+  "desc": "Motor vehicles specially designed for traveling on snow",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8703.10.50",
+  "desc": "Golf carts and similar motor vehicles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8708.10.30",
+  "desc": "Bumpers for motor vehicles of headings 8701 to 8705",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8708.92.50",
+  "desc": "Mufflers and exhaust pipes for motor vehicles of headings 8701 to 8705, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8708.92.75",
+  "desc": "Parts and accessories of mufflers, nesoi, for motor vehicles of headings 8701 to 8705",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8708.99.81",
+  "desc": "Parts and accessories, nesoi, for motor vehicles of headings 8701 to 8705",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8716.10.00",
+  "desc": "Trailers and semi-trailers, not mechanically propelled, for housing or camping",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8716.39.00",
+  "desc": "Trailers and semi-trailers, not mechanically propelled, nesoi, for the transport of goods",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8716.80.50",
+  "desc": "Vehicles, not mechanically propelled, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8716.90.30",
+  "desc": "Castors (other than of heading 8302) for trailers and semi-trailers, and other vehicles, not mechanically propelled",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "8716.90.50",
+  "desc": "Parts for trailers and semi-trailers, and other vehicles, not mechanically propelled, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "9403.20.0075",
+  "desc": "Boltless or press-fit steel shelving units prepackaged for sale as described in statistical note 4 to chapter 94 of the HTSUS",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "9403.20.0082",
+  "desc": "Steel racks, other than those described in subheading 9403.20.0075",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "9403.99.9020",
+  "desc": "Welded wire-rack decking, whether or not galvanized, plated or coated",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 9
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "9403.99.9040",
+  "desc": "Metal parts for steel racks of subheading 9403.20.0082, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 10
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "9406.20.00",
+  "desc": "Prefabricated modular building units of steel",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 10
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Steel Derivatives",
+  "code": "9406.90.01",
+  "desc": "Prefabricated buildings, not of wood or steel, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 10
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "3701.30.00",
+  "desc": "Other photographic plates and film, with any side exceeding 255 mm in the flat",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7615.10.20",
+  "desc": "Aluminum cooking and kitchen ware, enameled or glazed or containing nonstick interior finishes, cast",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7615.10.30",
+  "desc": "Aluminum cooking and kitchen ware, enameled or glazed or containing nonstick interior finishes, not cast",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7615.10.50",
+  "desc": "Aluminum cooking and kitchen ware, not enameled or glazed and not containing nonstick interior finishes, cast",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7615.10.71",
+  "desc": "Aluminum cooking and kitchen ware, not enameled or glazed and not containing nonstick interior finishes, not cast",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7615.10.91",
+  "desc": "Aluminum table, kitchen or other household articles and parts thereof, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7615.20.00",
+  "desc": "Aluminum sanitary ware and parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7616.99.10",
+  "desc": "Aluminum luggage frames",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7616.99.5130",
+  "desc": "Aluminum ladders",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "7616.99.5140",
+  "desc": "Aluminum Venetian blinds and parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.10.30",
+  "desc": "Hinges and parts thereof, of iron or steel, aluminum or zinc, designed for motor vehicles",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.10.60",
+  "desc": "Hinges, of base metal, of iron or steel, aluminum, or other",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.20.00",
+  "desc": "Castors, of base metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.30.30",
+  "desc": "Other mountings, fittings and similar articles suitable for motor vehicles and parts thereof, of iron or steel, of aluminum or of zinc",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.41.30",
+  "desc": "Door closers (except automatic door closers) and parts thereof, of base metal, suitable for buildings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.41.60",
+  "desc": "Mountings, fittings and similar articles, nesoi, suitable for buildings, of iron or steel, aluminum or zinc, and base metal parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.42.30",
+  "desc": "Mountings, fittings and similar articles, suitable for furniture, of iron or steel, aluminum or zinc",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.49.60",
+  "desc": "Other mountings, fittings and similar articles, of iron or steel, aluminum or zinc",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.50.00",
+  "desc": "Hat-racks, hat pegs, brackets and similar fixtures, and parts thereof, of base metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.60.30",
+  "desc": "Automatic door closers, of base metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8302.60.90",
+  "desc": "Parts of automatic door closers, of base metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8305.10.0050",
+  "desc": "Fittings for looseleaf binders or files, of base metal, other than ring binder mechanisms",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8306.30.00",
+  "desc": "Photograph, picture or similar frames; mirrors; parts thereof, of base metal",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8307.90.60",
+  "desc": "Flexible tubing of base metal other than iron or steel, without fittings",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8309.90.0020",
+  "desc": "Aluminum stoppers, caps and lids for cans of a kind used for the conveyance of beverages as described in statistical note 1 to chapter 83 of the HTSUS",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8309.90.0025",
+  "desc": "Other aluminum stoppers, caps and lids nesoi (not crown corks), capsules for bottles, threaded bungs, bung covers, seals and other packing accessories and parts",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 11
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8412.90.9070",
+  "desc": "Wind turbine blades imported in accordance with statistical note 2 to chapter 84 of the HTSUS",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8412.90.9075",
+  "desc": "Wind turbine hubs",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8414.59.6590",
+  "desc": "Fans, axial",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8414.80.16",
+  "desc": "Air compressors other than turbochargers and superchargers",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8418.10.00",
+  "desc": "Combined refrigerator-freezers, fitted with separate external doors",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8418.99.8005",
+  "desc": "Refrigeration condensing units, not exceeding 746 W",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8418.99.8050",
+  "desc": "Parts of combined refrigerator-freezers fitted with separate external doors and parts of household type refrigerators",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8418.99.8060",
+  "desc": "Parts of refrigerators, freezers and other refrigerating or freezing equipment, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8419.50.10",
+  "desc": "Heat exchange units",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8419.50.50",
+  "desc": "Heat exchange units, other",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8419.90.10",
+  "desc": "Parts of instantaneous or storage water heaters",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8422.90.0640",
+  "desc": "Parts of dishwashing machines of the household type",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8424.90.9080",
+  "desc": "Parts of mechanical appliances for projecting, dispersing, spraying liquid or powder; spray guns and similar appliances, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8443.16.00",
+  "desc": "Flexographic printing machinery",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8450.11.00",
+  "desc": "Household- or laundry-type washing machines, each of a dry linen capacity not exceeding 10 kg, fully automatic",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8451.21.00",
+  "desc": "Drying machines, each of a dry linen capacity not exceeding 10 kg",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8467.22.00",
+  "desc": "Electromechanical saws for working in the hand, with self-contained electric motor",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8467.29.00",
+  "desc": "Electromechanical tools for working in the hand, other than drills or saws, with self-contained electric motor",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8467.81.00",
+  "desc": "Chain saws for working in the hand, hydraulic or with self-contained nonelectric motor",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8467.89.50",
+  "desc": "Other tools for working in the hand, hydraulic or with self-contained nonelectric motor, other than suitable for metal working, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8479.90.85",
+  "desc": "Parts of trash compactors, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8481.90.9060",
+  "desc": "Valve bodies of hand-operated and check appliances, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8481.90.9085",
+  "desc": "Parts of taps, cocks, valves and similar appliances, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8483.40.5020",
+  "desc": "Gear boxes and speed changers for wind turbines as described in statistical note 6 to chapter 84 of the HTSUS",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8483.90.5020",
+  "desc": "Parts of gear boxes and speed changers for wind turbines",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8487.90.0080",
+  "desc": "Machinery parts not containing electrical features, and not specified or included elsewhere in chapter 84 of the HTSUS, except ships’ propellers",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8501.64.0110",
+  "desc": "AC generators (alternators), of an output exceeding 750 kVa for wind- powered generating sets classified within heading 8502.31.00",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8502.20.00",
+  "desc": "Electric generating sets with spark-ignition internal-combustion piston engines",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8502.31.00",
+  "desc": "Electric generating sets, wind-powered",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8503.00.9520",
+  "desc": "Electric motor parts, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 12
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8503.00.9546",
+  "desc": "Generator parts for AC generators (alternators) classified within subheading 8501.64.0110",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8503.00.9570",
+  "desc": "Parts of wind-powered generating sets classified in subheading 8502.31.00",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8504.31.20",
+  "desc": "Transformers, electric, having a power-handling capacity not exceeding 1 kVA, unrated",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8504.31.40",
+  "desc": "Transformers, electric, having a power-handling capacity of less than 1 kVA",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8504.31.60",
+  "desc": "Transformers, electric, having a power-handling capacity of 1 kVA",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8504.33.00",
+  "desc": "Transformers, electric, having a power-handling capacity exceeding 16 kVA but not exceeding 500 kVA",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8504.90.41",
+  "desc": "Parts of power supplies (other than printed circuit assemblies) for automatic data-processing machines or units thereof of heading 8471",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8508.70.00",
+  "desc": "Vacuum cleaner parts",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8513.90.20",
+  "desc": "Flashlight parts",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8515.90.20",
+  "desc": "Welding machine parts and parts of apparatus",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8516.90.50",
+  "desc": "Microwave oven parts of subheading 8516.50, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8516.90.8050",
+  "desc": "Parts for electric cooking stoves, ranges and ovens of subheading 8516.60.40, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8517.71.00",
+  "desc": "Aerials and aerial reflectors and parts thereof",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8529.90.73",
+  "desc": "Printed circuit assembly parts, including face plates and lock latches, of radar, radio navigational aid or radio remote control apparatus, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8536.90.8585",
+  "desc": "Electrical apparatus for switching or protecting electrical circuits, or for making connection with electrical circuits, for a voltage not exceeding 1,000 V, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8538.10.00",
+  "desc": "Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 8537, not equipped with their apparatus",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8543.90.8885",
+  "desc": "Parts of electrical machines and apparatus, having individual functions, not specified or included elsewhere in chapter 85, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8544.19.00",
+  "desc": "Insulated (including enameled or anodized) winding wire, other than of copper",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8544.42.90",
+  "desc": "Insulated electric conductors nesoi, for a voltage not exceeding 1,000 V, fitted with connectors, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8544.49.20",
+  "desc": "Insulated electric conductors for a voltage not exceeding 80 V, not fitted with connectors, of a kind not used for telecommunications",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8544.49.90",
+  "desc": "Insulated electric conductors for a voltage not exceeding 1,000 V, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8544.60.20",
+  "desc": "Insulated electric conductors fitted with connectors, for a voltage exceeding 1,000 V",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8544.60.60",
+  "desc": "Insulated electric conductors for a voltage exceeding 1,000 V, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8547.90.0020",
+  "desc": "Electrical conduit tubing lined with insulation",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8547.90.0030",
+  "desc": "Electrical conduit joints lined with insulation, threaded",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8547.90.0040",
+  "desc": "Electrical conduit joints lined with insulation, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8708.10.30",
+  "desc": "Bumpers for motor vehicles of headings 8701 to 8705",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8708.10.60",
+  "desc": "Parts of bumpers for motor vehicles of headings 8701 to 8705",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8708.29.5160",
+  "desc": "Other parts and accessories, nesoi, of bodies (including cabs) of headings 8701 to 8705",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 13
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8708.80.6590",
+  "desc": "Suspension system parts other than beam hanger brackets, of motor vehicles, nesoi, of headings 8701 to 8705",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 14
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8708.99.6890",
+  "desc": "Parts of motor vehicles, nesoi, of headings 8701 to 8705, for power trains",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 14
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8716.10.00",
+  "desc": "Trailers and semi-trailers, not mechanically propelled, for housing or camping",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 14
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8716.39.00",
+  "desc": "Trailers and semi-trailers, not mechanically propelled, nesoi, for the transport of goods",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 14
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8716.80.5010",
+  "desc": "Industrial hand trucks",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 14
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Aluminum Derivative",
+  "code": "8716.90.50",
+  "desc": "Parts for trailers and semi-trailers, and other vehicles, not mechanically propelled, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 14
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Copper Articles",
+  "code": "8544.42.10",
+  "desc": "Insulated electric conductors nesoi, for a voltage not exceeding 1,000 V, fitted with modular telephone connectors",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 15
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Copper Articles",
+  "code": "8544.42.20",
+  "desc": "Insulated electric conductors nesoi, of a kind used for telecommunications, for a voltage not exceeding 1,000 V, fitted with connectors",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 15
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Copper Articles",
+  "code": "8544.42.90",
+  "desc": "Insulated electric conductors nesoi, for a voltage not exceeding 1,000 V, fitted with connectors, nesoi",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 15
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-B",
+  "section": "Copper Articles",
+  "code": "8544.49.10",
+  "desc": "Insulated electric conductors of a kind used for telecommunications, for a voltage not exceeding 80 V, not fitted with connectors",
+  "file": "2026-06_Annex-I-B.pdf",
+  "page": 15
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8427.10.40",
+  "desc": "Self-propelled rider-type counterbalanced fork-lift trucks powered by an electric motor",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8427.10.80",
+  "desc": "Self-propelled works trucks powered by an electric motor, fitted with lifting and handling equipment, nesoi",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8427.20.40",
+  "desc": "Self-propelled rider-type counterbalanced fork-lift trucks not powered by an electric motor",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8427.20.80",
+  "desc": "Self-propelled works trucks not powered by an electric motor, fitted with lifting and handling equipment, nesoi",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8427.90.00",
+  "desc": "Trucks, fitted with lifting or handling equipment, nesoi",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.11.00",
+  "desc": "Self-propelled bulldozers and angledozers, for track laying",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.19.00",
+  "desc": "Self-propelled bulldozers and angledozers, other than for track laying",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.20.00",
+  "desc": "Self-propelled graders and levelers",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.30.00",
+  "desc": "Self-propelled scrapers",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.40.00",
+  "desc": "Self-propelled tamping machines and road rollers",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.51.10",
+  "desc": "Self-propelled front-end shovel loaders, wheel-type",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.51.50",
+  "desc": "Self-propelled front-end shovel loaders, other than wheel-type",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.52.10",
+  "desc": "Self-propelled backhoes, shovels, clamshells and draglines with a 360-degree revolving superstructure",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.52.50",
+  "desc": "Self-propelled machinery with a 360-degree revolving superstructure, other than backhoes, shovels, clamshells and draglines",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.59.10",
+  "desc": "Self-propelled backhoes, shovels, clamshells and draglines not with a 360- degree revolving superstructure",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8429.59.50",
+  "desc": "Self-propelled machinery not with a 360-degree revolving superstructure, other than backhoes, shovels, clamshells and draglines",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8431.20.00",
+  "desc": "Parts suitable for use solely or principally with the machinery of heading 8427",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8431.42.00",
+  "desc": "Bulldozer or angledozer blades suitable for use solely or principally with the machinery of headings 8426, 8429 or 8430",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8431.49.90",
+  "desc": "Parts suitable for use solely or principally with the machinery of headings 8429 or 8430, nesoi",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8701.10.01",
+  "desc": "Single-axle tractors, other than tractors of heading 8709",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8701.30.50",
+  "desc": "Track-laying tractors, not suitable for agricultural use",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8701.91.50",
+  "desc": "Other tractors of engine power not exceeding 18 kW, not for agricultural use",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8701.92.50",
+  "desc": "Other tractors of engine power exceeding 18 kW but not exceeding 37 kW, not for agricultural use",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8701.93.50",
+  "desc": "Other tractors of engine power exceeding 37 kW but not exceeding 75 kW, not for agricultural use",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8701.94.50",
+  "desc": "Other tractors of engine power exceeding 75 kW but not exceeding 130 kW, not for agricultural use",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8701.95.50",
+  "desc": "Other tractors of engine power exceeding130 kW, not for agricultural use",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8705.10.00",
+  "desc": "Mobile cranes",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "I-C",
+  "section": "Steel Derivatives",
+  "code": "8705.20.00",
+  "desc": "Mobile drilling derricks",
+  "file": "2026-06_Annex-I-C.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8207.20.0070",
+  "desc": "Parts of dies for drawing or extruding metal",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8207.30.6062",
+  "desc": "Metal-forming dies, including thread-rolling dies",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8207.30.6095",
+  "desc": "Parts of tools for pressing, stamping or punching, not suitable for cutting metal",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8401.40.00",
+  "desc": "Parts of nuclear reactors",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8407.90.10",
+  "desc": "Spark-ignition rotary or reciprocating internal-combustion piston engines nesoi, to be installed in agricultural or horticultural machinery or equipment",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8415.10.60",
+  "desc": "Air-conditioning machines, window- or wall-types, incorporating a refrigerating unit and a valve for reversal of the cooling/heating cycle",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8415.10.90",
+  "desc": "Air-conditioning machines, window- or wall-types, other",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8415.81.01",
+  "desc": "Other air-conditioning machines, incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8415.82.01",
+  "desc": "Other air-conditioning machines, incorporating a refrigerating unit",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8415.90.80",
+  "desc": "Parts of air-conditioning machines",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8417.90.00",
+  "desc": "Parts of industrial or laboratory furnaces and ovens, including incinerators, nonelectric",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8419.81.50",
+  "desc": "Cooking stoves, ranges and ovens for making hot drinks or for cooking or heating food",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8421.29.00",
+  "desc": "Filtering or purifying machinery and apparatus for liquids, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8424.89.90",
+  "desc": "Other mechanical appliances for projecting, dispersing or spraying liquids or powders, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8428.32.00",
+  "desc": "Bucket-type continuous-action elevators and conveyors, for goods or materials",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8428.33.00",
+  "desc": "Belt-type continuous-action elevators and conveyors, for goods or materials",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8428.39.00",
+  "desc": "Continuous-action elevators and conveyors, for goods or materials, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8428.60.00",
+  "desc": "Teleferics, chair lifts, ski draglines; traction mechanisms for funiculars",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8428.70.00",
+  "desc": "Industrial robots",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8428.90.03",
+  "desc": "Machinery for lifting, handling, loading or unloading, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8431.39.00",
+  "desc": "Parts suitable for use solely or principally with the machinery of heading 8428, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8431.41.00",
+  "desc": "Buckets, shovels, grabs and grips suitable for use solely or principally with the machinery of headings 8426, 8429 or 8430",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8432.10.00",
+  "desc": "Plows for soil preparation or cultivation",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8432.90.00",
+  "desc": "Parts of agricultural, horticultural or forestry machinery for soil preparation or cultivation; parts of lawn or sports ground rollers",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8433.20.00",
+  "desc": "Mowers nesoi, including cutter bars for tractor mounting",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 1
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8433.51.00",
+  "desc": "Combine harvester-threshers",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8433.59.00",
+  "desc": "Harvesting machinery or threshing machinery, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8433.90.50",
+  "desc": "Parts for machinery of heading 8433, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8454.20.0010",
+  "desc": "Ingot molds for steel ingots",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8454.20.0060",
+  "desc": "Ingot molds except for steel ingots",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8455.30.00",
+  "desc": "Rolls for metal-rolling mills",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8455.90.40",
+  "desc": "Castings or weldments, individually weighing less than 90 tons, for the machines of heading 8455",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8455.90.80",
+  "desc": "Parts for metal-rolling mills and rolls therefor, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8457.10.00",
+  "desc": "Machining centers for working metal",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8474.90.00",
+  "desc": "Parts for the machinery of heading 8474",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8477.10.30",
+  "desc": "Injection-molding machines for manufacturing shoes of rubber or plastics",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8477.10.40",
+  "desc": "Injection-molding machines for use in the manufacture of video laser discs",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8477.10.90",
+  "desc": "Injection-molding machines of a type used for working or manufacturing products from rubber or plastics, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8477.90.25",
+  "desc": "Base, bed, platen and specified parts of machinery for working rubber or plastics or for the manufacture of products from these materials, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8477.90.8601",
+  "desc": "Parts of injection-molding machines",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8479.89.55",
+  "desc": "Trash compactors with self-contained electric motor",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8479.89.65",
+  "desc": "Electromechanical appliances with self-contained electric motor, other",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8479.90.95",
+  "desc": "Parts of machines and mechanical appliances having individual functions, nesoi in chapter 84 of the HTSUS",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8480.49.0010",
+  "desc": "Molds for centrifugal casting of ductile iron pipe",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8480.71.8045",
+  "desc": "Injection-type molds for rubber or plastics, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8480.71.8060",
+  "desc": "Compression-type molds for rubber or plastics, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8480.79.9010",
+  "desc": "Blow molds for rubber or plastics",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8483.60.80",
+  "desc": "Shaft couplings (other than universal joints)",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8483.90.20",
+  "desc": "Parts of flange, take-up, cartridge and hanger units",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8504.23.00",
+  "desc": "Liquid dielectric transformers having a power-handling capacity exceeding 10,000 kVa",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8516.29.00",
+  "desc": "Electric space heating apparatus and electric soil heating apparatus, other than storage heating radiators",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8701.30.10",
+  "desc": "Track-laying tractors, suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8701.91.10",
+  "desc": "Other tractors of engine power not exceeding 18 kW, for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8701.92.10",
+  "desc": "Other tractors of engine power exceeding 18 kW but not exceeding 37 kW, for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8701.93.10",
+  "desc": "Other tractors of engine power exceeding 37 kW but not exceeding 75 kW, for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8701.94.10",
+  "desc": "Other tractors of engine power exceeding 75 kW but not exceeding 130 kW, for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8701.95.10",
+  "desc": "Other tractors of engine power exceeding130 kW, for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8703.21.01",
+  "desc": "Motor vehicles to transport persons, with only spark-ignition internal- combustion piston engines, of a cylinder capacity not exceeding 1,000 cc",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8706.00.30",
+  "desc": "Chassis fitted with engines, for tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 2
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.29.21.20",
+  "desc": "Body stampings for tractors suitable for agricultural use, of steel",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.40.30",
+  "desc": "Gear boxes for tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.40.60",
+  "desc": "Parts of gear boxes for tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.92.10",
+  "desc": "Mufflers and exhaust pipes for tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.92.60",
+  "desc": "Parts of mufflers and exhaust pipes for tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.93.15",
+  "desc": "Clutches for tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.93.30",
+  "desc": "Parts of clutches for tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8708.99.23",
+  "desc": "Parts and accessories, nesoi, of tractors suitable for agricultural use",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8716.80.10",
+  "desc": "Farm wagons and carts, not mechanically propelled",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Steel Derivatives",
+  "code": "8716.90.10",
+  "desc": "Parts of farm wagons and carts",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 3
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8415.90.8010",
+  "desc": "Air-conditioning evaporator coils, of copper or copper alloys",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8415.90.8020",
+  "desc": "Air-conditioning evaporator coils, other",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8415.90.8045",
+  "desc": "Parts of automative air-conditioning machines",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8415.90.8085",
+  "desc": "Parts of heat pumps for air-conditioning machines",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8424.89.90",
+  "desc": "Other mechanical appliances for projecting, dispersing or spraying liquids or powders, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8479.89.9599",
+  "desc": "Other machines and mechanical appliances having individual functions, nesoi in chapter 84 of the HTSUS; parts thereof",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8479.90.9596",
+  "desc": "Other parts of machines and mechanical appliances having individual functions, nesoi in chapter 84 of the HTSUS; nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.34.00",
+  "desc": "Electrical transformers other than liquid dielectric, having a power-handling capacity exceeding 500 kVa",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.20",
+  "desc": "Printed circuit assemblies of power supplies for automatic data-processing machines or units thereof of heading 8471",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.65",
+  "desc": "Printed circuit assemblies of the goods of subheadings 8504.40 or 8504.50 for telecommunication apparatus",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.75",
+  "desc": "Printed circuit assemblies of electrical transformers, static converters and inductors, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.9610",
+  "desc": "Ferrites for electrical transformers",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.9630",
+  "desc": "Ferrites for static converters and inductors",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.9646",
+  "desc": "Parts for electrical transformers, nesoi (excluding laminations and cores)",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.9650",
+  "desc": "Parts for static converters, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8504.90.9690",
+  "desc": "Parts for inductors, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "8708.29.21.30",
+  "desc": "Body stampings for tractors suitable for agricultural use, of aluminum",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ },
+ {
+  "regime": "2026-06-08-partial",
+  "annex": "III",
+  "section": "Aluminum Derivatives",
+  "code": "9013.90.80",
+  "desc": "Parts and accessories for liquid crystal devices, nesoi",
+  "file": "2026-06_Annex-III.pdf",
+  "page": 4
+ }
+]
