@@ -1,11 +1,11 @@
 <title>관세 부속서 내비</title>
-<meta name="description" content="미국 232조 철강·알루미늄·구리 관세에서 우리 제품이 어느 부속서에 들어가는지, 몇 %인지 부속서 원문 근거와 함께 보여주는 시연용 서비스">
+<meta name="description" content="미국에 수출할 제품의 철강 관세(232조)가 몇 %인지 쉬운 말로 알려주는 시연용 서비스">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Noto+Sans+KR:wght@300;400;600;700&display=swap">
 <style>
-/* DESIGN.md(Apple) 규칙: 밝은 타일과 어두운 타일이 번갈아 쌓이고, 색이 바뀌는 곳이 구분선이다.
-   판정 결과(세율)가 이 페이지의 '제품'이라 어두운 타일 위에 혼자 놓는다. 클릭 신호는 파란색 하나뿐. */
+/* DESIGN.md(Apple) 규칙. 첫 화면은 질문 하나와 답 하나만: 제품 넣기 → 관세 몇 %.
+   전문 정보(부속서, 판정 순서, 원문)는 '자세히 보기' 화면으로 따로 뺀다. 클릭 신호는 파란색 하나. */
 :root {
   color-scheme: light;
   --primary: #0066cc;
@@ -25,7 +25,6 @@
   --tile-2: #2a2a2c;
   --tile-3: #252527;
   --black: #000000;
-  --chip: #d2d2d7;
   --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Apple SD Gothic Neo", "Inter", "Noto Sans KR", system-ui, sans-serif;
   --font-text: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Apple SD Gothic Neo", "Inter", "Noto Sans KR", system-ui, sans-serif;
   --r-xs: 5px; --r-sm: 8px; --r-md: 11px; --r-lg: 18px; --r-pill: 9999px;
@@ -43,20 +42,17 @@ a:hover { text-decoration: underline; }
 :focus-visible { outline: 2px solid var(--primary-focus); outline-offset: 2px; }
 .num { font-variant-numeric: tabular-nums; }
 .inner { max-width: 980px; margin: 0 auto; padding-inline: 22px; }
-.wide { max-width: 1080px; }
+.narrow { max-width: 720px; }
 
-/* 전역 내비 (검은 띠 44px) */
+/* 전역 내비 */
 .gnav { background: var(--black); color: var(--on-dark); }
 .gnav .inner { height: 44px; display: flex; align-items: center; justify-content: space-between; gap: var(--s-sm); font-size: 12px; letter-spacing: -0.12px; }
-.gnav .left { opacity: 0.88; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
-.gnav .right { display: flex; align-items: center; gap: var(--s-xs); white-space: nowrap; }
-.gnav label { opacity: 0.8; }
-.gnav input[type="date"] { color-scheme: dark; background: transparent; border: 1px solid #424245; border-radius: var(--r-sm); color: var(--on-dark); font-size: 12px; padding: 3px 6px; }
+.gnav span { opacity: 0.88; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 
-/* 제품 내비 (반투명 52px, 위에 붙음) */
+/* 제품 내비 */
 .subnav { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: rgba(245, 245, 247, 0.8); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid rgba(0, 0, 0, 0.08); }
 .subnav .inner { height: 52px; display: flex; align-items: center; justify-content: space-between; gap: var(--s-md); }
-.subnav .name { font-family: var(--font-display); font-size: 21px; font-weight: 600; letter-spacing: 0.231px; white-space: nowrap; }
+.subnav .name { font-family: var(--font-display); font-size: 21px; font-weight: 600; letter-spacing: 0.231px; white-space: nowrap; background: none; border: 0; padding: 0; cursor: pointer; color: var(--ink); }
 .subnav nav { display: flex; gap: var(--s-lg); align-items: center; }
 .tab { background: none; border: 0; padding: 6px 0; font-size: 14px; letter-spacing: -0.224px; color: var(--ink-80); cursor: pointer; white-space: nowrap; }
 .tab[aria-selected="true"] { color: var(--ink); font-weight: 600; }
@@ -67,84 +63,80 @@ a:hover { text-decoration: underline; }
 .tile.light { background: var(--canvas); color: var(--ink); }
 .tile.parchment { background: var(--parchment); color: var(--ink); }
 .tile.dark { background: var(--tile-1); color: var(--on-dark); }
-#verdict, #detail, #candCard { scroll-margin-top: 64px; }
-.tile.center { text-align: center; }
-.hero-title { font-size: 56px; line-height: 1.07; letter-spacing: -0.28px; }
+.center { text-align: center; }
+.hero-title { font-size: 56px; line-height: 1.07; letter-spacing: -0.28px; max-width: 16em; margin-inline: auto; }
 .display-lg { font-size: 40px; line-height: 1.1; letter-spacing: 0; }
 .lead { font-family: var(--font-display); font-size: 28px; font-weight: 400; line-height: 1.14; letter-spacing: 0.196px; }
 .tagline { font-family: var(--font-display); font-size: 21px; font-weight: 600; line-height: 1.19; letter-spacing: 0.231px; }
-.caption { font-size: 14px; line-height: 1.43; letter-spacing: -0.224px; }
 .fine { font-size: 12px; line-height: 1.33; letter-spacing: -0.12px; color: var(--ink-48); }
 .muted { color: var(--ink-48); }
 .tile.dark .muted { color: var(--body-muted); }
-.stack { display: grid; gap: var(--s-md); }
-.tile.center .lead { margin: var(--s-sm) auto 0; max-width: 30em; }
-.tile.center .hero-title { max-width: 18em; margin-inline: auto; }
+.center .lead { margin: var(--s-sm) auto 0; max-width: 26em; }
+.section-head { text-align: center; margin-bottom: var(--s-xl); }
+.section-head p { margin-top: var(--s-xs); }
 
 /* 버튼 */
-.btn { display: inline-flex; align-items: center; justify-content: center; border-radius: var(--r-pill); padding: 11px 22px; font-size: 17px; line-height: 1; cursor: pointer; border: 1px solid transparent; white-space: nowrap; }
+.btn { display: inline-flex; align-items: center; justify-content: center; border-radius: var(--r-pill); padding: 11px 22px; font-size: 17px; line-height: 1.2; cursor: pointer; border: 1px solid transparent; white-space: nowrap; text-decoration: none; }
+.btn:hover { text-decoration: none; }
 .btn:active { transform: scale(0.95); }
 .btn-primary { background: var(--primary); color: var(--on-dark); }
 .btn-secondary { background: transparent; color: var(--primary); border-color: var(--primary); }
 .tile.dark .btn-secondary { color: var(--primary-on-dark); border-color: var(--primary-on-dark); }
-.link-dark { color: var(--primary-on-dark); }
+.back { background: none; border: 0; padding: 0; color: var(--primary); cursor: pointer; font-size: 17px; }
 
 /* 검색 */
 .search { display: flex; gap: var(--s-xs); justify-content: center; margin-top: var(--s-xl); flex-wrap: wrap; }
-.search input { width: min(100%, 440px); height: 44px; border-radius: var(--r-pill); border: 1px solid rgba(0, 0, 0, 0.08); background: var(--canvas); padding: 12px 20px; }
-.tile.light .search input { background: var(--parchment); }
+.search input { width: min(100%, 440px); height: 44px; border-radius: var(--r-pill); border: 1px solid rgba(0, 0, 0, 0.08); background: var(--parchment); padding: 12px 20px; }
 .chips { display: flex; flex-wrap: wrap; gap: var(--s-xs); justify-content: center; margin-top: var(--s-lg); }
 .chip { background: var(--canvas); color: var(--ink); border: 1px solid var(--hairline); border-radius: var(--r-pill); padding: 8px 16px; font-size: 14px; letter-spacing: -0.224px; cursor: pointer; }
 .chip:active { transform: scale(0.95); }
-.chips-label { width: 100%; }
+.hint { margin-top: var(--s-md); }
 
-/* 카드 (스토어 유틸리티 카드) */
+/* 고르기 */
+.picks { display: grid; gap: var(--s-xs); }
+.pick { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: var(--s-md); align-items: center; text-align: left; width: 100%; background: var(--canvas); border: 1px solid var(--hairline); border-radius: var(--r-lg); padding: var(--s-md) var(--s-lg); cursor: pointer; }
+.pick:active { transform: scale(0.99); }
+.pick[aria-current="true"] { border: 2px solid var(--primary-focus); padding: calc(var(--s-md) - 1px) calc(var(--s-lg) - 1px); }
+.pick .ko { font-weight: 600; line-height: 1.3; }
+.pick .code { display: block; font-size: 14px; letter-spacing: -0.224px; color: var(--ink-48); margin-top: 2px; font-variant-numeric: tabular-nums; }
+.pick .rate-mini { font-family: var(--font-display); font-size: 21px; font-weight: 600; letter-spacing: 0.231px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.more { margin-top: var(--s-md); text-align: center; }
+
+/* 답 (어두운 타일) */
+.answer-for { font-size: 14px; letter-spacing: -0.224px; max-width: 34em; margin: 0 auto; }
+.rate { font-family: var(--font-display); font-size: 56px; font-weight: 600; line-height: 1.07; letter-spacing: -0.28px; margin-top: var(--s-md); font-variant-numeric: tabular-nums; }
+.rate-label { font-size: 14px; letter-spacing: -0.224px; margin-top: var(--s-xxs); }
+.answer-say { margin: var(--s-lg) auto 0; max-width: 24em; }
+.answer-sub { margin: var(--s-xs) auto 0; max-width: 32em; }
+.calc { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: var(--s-xs) var(--s-sm); margin-top: var(--s-xl); font-variant-numeric: tabular-nums; }
+.calc input { width: 140px; height: 40px; border-radius: var(--r-pill); border: 1px solid #424245; background: var(--tile-2); color: var(--on-dark); padding: 8px 16px; text-align: right; }
+.calc b { font-weight: 600; }
+.pillnote { display: inline-block; margin-top: var(--s-lg); font-size: 14px; letter-spacing: -0.224px; padding: 6px 14px; border-radius: var(--r-pill); background: var(--tile-2); border: 1px solid #424245; }
+.condition { margin: var(--s-md) auto 0; max-width: 32em; font-size: 14px; letter-spacing: -0.224px; }
+.ctas { display: flex; gap: var(--s-md); justify-content: center; align-items: center; flex-wrap: wrap; margin-top: var(--s-xl); }
+
+/* 질문 */
+.qs { display: grid; gap: var(--s-md); }
 .card { background: var(--canvas); border: 1px solid var(--hairline); border-radius: var(--r-lg); padding: var(--s-lg); min-width: 0; text-align: left; }
-.grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-md); }
-.span-2 { grid-column: 1 / -1; }
-.section-head { text-align: center; margin-bottom: var(--s-xl); }
-.section-head p { margin-top: var(--s-xs); }
-.card h3 { font-size: 17px; letter-spacing: -0.374px; line-height: 1.24; }
-.card .help { font-size: 14px; letter-spacing: -0.224px; color: var(--ink-48); margin-top: var(--s-xxs); }
-
-/* 선택지 (구성 칩) */
+.card h3 { font-size: 17px; letter-spacing: -0.374px; line-height: 1.3; }
+.card .help { font-size: 14px; letter-spacing: -0.224px; color: var(--ink-48); margin-top: var(--s-xxs); line-height: 1.43; }
 .opts { display: flex; flex-wrap: wrap; gap: var(--s-xs); margin-top: var(--s-sm); }
 .opts label { position: relative; }
 .opts input { position: absolute; opacity: 0; pointer-events: none; }
-.opts span { display: inline-block; border: 1px solid var(--hairline); border-radius: var(--r-pill); padding: 10px 16px; font-size: 14px; letter-spacing: -0.224px; cursor: pointer; background: var(--canvas); }
-.opts input:checked + span { border: 2px solid var(--primary-focus); padding: 9px 15px; font-weight: 600; }
+.opts span { display: inline-block; border: 1px solid var(--hairline); border-radius: var(--r-pill); padding: 10px 18px; font-size: 14px; letter-spacing: -0.224px; cursor: pointer; background: var(--canvas); }
+.opts input:checked + span { border: 2px solid var(--primary-focus); padding: 9px 17px; font-weight: 600; }
 .opts input:focus-visible + span { outline: 2px solid var(--primary-focus); outline-offset: 2px; }
-.money { display: flex; align-items: center; gap: var(--s-xs); margin-top: var(--s-sm); }
-.money input { width: 200px; max-width: 100%; height: 44px; border-radius: var(--r-pill); border: 1px solid rgba(0, 0, 0, 0.08); background: var(--parchment); padding: 12px 20px; text-align: right; }
 
-/* 후보 목록 */
-.cand-card { margin-bottom: var(--s-xxl); }
-.cands { margin-top: var(--s-md); display: grid; max-height: 420px; overflow-y: auto; border-top: 1px solid var(--hairline); }
-.cand { display: grid; grid-template-columns: 120px auto minmax(0, 1fr); gap: var(--s-sm); align-items: baseline; text-align: left; padding: 14px 4px; background: none; border: 0; border-bottom: 1px solid var(--divider-soft); cursor: pointer; }
-.cand:active { transform: scale(0.99); }
-.cand[aria-current="true"] .code { color: var(--primary); }
-.cand .code { font-weight: 600; font-variant-numeric: tabular-nums; }
-.cand .desc { font-size: 14px; letter-spacing: -0.224px; color: var(--ink-80); }
-.annex { display: inline-block; font-size: 12px; font-weight: 600; letter-spacing: 0; padding: 2px 8px; border-radius: var(--r-xs); background: var(--parchment); color: var(--ink); font-variant-numeric: tabular-nums; white-space: nowrap; }
-.tile.dark .annex { background: var(--tile-2); color: var(--on-dark); border: 1px solid #424245; }
-
-/* 판정 (어두운 타일) */
-.verdict-meta { font-size: 14px; letter-spacing: -0.224px; }
-.rate { font-family: var(--font-display); font-size: 56px; font-weight: 600; line-height: 1.07; letter-spacing: -0.28px; margin-top: var(--s-lg); font-variant-numeric: tabular-nums; }
-.verdict-what { margin-top: var(--s-md); }
-.verdict-sub { margin-top: var(--s-xs); }
-.amount { margin-top: var(--s-lg); font-variant-numeric: tabular-nums; }
-.amount b { font-weight: 600; }
-.ctas { display: flex; gap: var(--s-md); justify-content: center; align-items: center; flex-wrap: wrap; margin-top: var(--s-xl); }
-.toast { min-height: 1.4em; margin-top: var(--s-sm); font-size: 14px; color: var(--body-muted); }
-.copybox { width: min(100%, 640px); min-height: 180px; margin-top: var(--s-md); background: var(--tile-3); color: var(--on-dark); border: 1px solid #424245; border-radius: var(--r-sm); padding: var(--s-sm); font-size: 12px; text-align: left; }
-.verdict-empty { font-family: var(--font-display); font-size: 28px; line-height: 1.14; max-width: 24ch; margin: 0 auto; }
-
-/* 상세 카드 */
+/* 자세히 보기 */
+.grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-md); }
+.span-2 { grid-column: 1 / -1; }
+.glossary { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--s-xs); margin-top: var(--s-md); }
+.gl { background: var(--parchment); border-radius: var(--r-md); padding: var(--s-sm); font-size: 14px; letter-spacing: -0.224px; }
+.gl b { display: block; font-weight: 600; }
+.annex { display: inline-block; font-size: 12px; font-weight: 600; letter-spacing: 0; padding: 2px 8px; border-radius: var(--r-xs); background: var(--parchment); color: var(--ink); white-space: nowrap; }
 .steps { list-style: none; padding: 0; margin: var(--s-md) 0 0; display: grid; gap: var(--s-sm); counter-reset: s; }
 .steps li { display: grid; grid-template-columns: 24px minmax(0, 1fr); gap: var(--s-sm); counter-increment: s; font-size: 14px; letter-spacing: -0.224px; line-height: 1.43; }
-.steps li::before { content: counter(s); width: 24px; height: 24px; border-radius: 50%; background: var(--parchment); display: grid; place-items: center; font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; }
-.steps b { font-weight: 600; margin-right: 6px; }
+.steps li::before { content: counter(s); width: 24px; height: 24px; border-radius: 50%; background: var(--parchment); display: grid; place-items: center; font-size: 12px; font-weight: 600; }
 .depth { display: flex; flex-wrap: wrap; gap: 6px; align-items: flex-start; margin: var(--s-sm) 0 var(--s-md); }
 .seg-code { display: grid; gap: 2px; text-align: center; }
 .seg-code span:first-child { font-weight: 600; font-variant-numeric: tabular-nums; padding: 4px 10px; border-radius: var(--r-sm); background: var(--parchment); }
@@ -153,6 +145,7 @@ a:hover { text-decoration: underline; }
 .dot { color: var(--ink-48); padding-top: 4px; }
 .basis { display: grid; gap: 4px; padding-top: var(--s-sm); border-top: 1px solid var(--divider-soft); }
 .basis + .basis { margin-top: var(--s-sm); }
+.basis .ko { font-weight: 600; }
 .basis .en { font-size: 14px; letter-spacing: -0.224px; color: var(--ink-80); }
 .basis .meta { font-size: 12px; letter-spacing: -0.12px; color: var(--ink-48); }
 .change { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: var(--s-sm); align-items: center; margin-top: var(--s-md); }
@@ -160,40 +153,43 @@ a:hover { text-decoration: underline; }
 .change .side .k { font-size: 12px; color: var(--ink-48); letter-spacing: -0.12px; }
 .change .side .v { font-weight: 600; margin-top: 2px; }
 .change .arrow { color: var(--ink-48); }
-.state { display: inline-block; margin-top: var(--s-sm); font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: var(--r-pill); }
+.state { display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: var(--r-pill); white-space: nowrap; }
 .state.changed { background: var(--ink); color: var(--on-dark); }
 .state.same { background: var(--parchment); color: var(--ink-80); }
 .cautions { margin: var(--s-md) 0 0; padding-left: 18px; display: grid; gap: var(--s-xs); font-size: 14px; letter-spacing: -0.224px; line-height: 1.43; }
+.date-row { display: flex; align-items: center; gap: var(--s-sm); margin-top: var(--s-sm); flex-wrap: wrap; }
+.date-row input { height: 40px; border-radius: var(--r-pill); border: 1px solid rgba(0, 0, 0, 0.08); background: var(--parchment); padding: 8px 16px; }
+.copybox { width: 100%; min-height: 180px; margin-top: var(--s-md); background: var(--parchment); border: 1px solid var(--hairline); border-radius: var(--r-sm); padding: var(--s-sm); font-size: 12px; }
+.toast { min-height: 1.4em; margin-top: var(--s-sm); font-size: 14px; color: var(--ink-48); }
 
-/* 떠 있는 하단 바 */
-.sticky { position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: rgba(245, 245, 247, 0.8); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); border-top: 1px solid rgba(0, 0, 0, 0.08); padding-bottom: env(safe-area-inset-bottom, 0px); }
-.sticky .inner { min-height: 64px; display: flex; align-items: center; justify-content: space-between; gap: var(--s-md); }
-.sticky-text { min-width: 0; font-variant-numeric: tabular-nums; }
-.sticky-text .k { font-size: 12px; color: var(--ink-48); letter-spacing: -0.12px; }
-
-/* 알림 */
-.table-card { padding: 0; overflow-x: auto; }
-table { width: 100%; border-collapse: collapse; font-size: 14px; letter-spacing: -0.224px; }
-th, td { text-align: left; padding: 14px var(--s-md); border-bottom: 1px solid var(--divider-soft); vertical-align: middle; white-space: nowrap; }
-th { font-size: 12px; font-weight: 600; color: var(--ink-48); letter-spacing: -0.12px; }
-tr:last-child td { border-bottom: 0; }
-td.code { font-weight: 600; font-variant-numeric: tabular-nums; }
-.tag-ex { font-size: 11px; color: var(--ink-48); margin-left: 6px; }
+/* 내 품목 */
+.items { display: grid; gap: var(--s-xs); }
+.item { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: var(--s-md); align-items: center; background: var(--canvas); border: 1px solid var(--hairline); border-radius: var(--r-lg); padding: var(--s-md) var(--s-lg); }
+.item .ko { font-weight: 600; }
+.item .code { font-size: 14px; letter-spacing: -0.224px; color: var(--ink-48); font-variant-numeric: tabular-nums; }
+.item .right { text-align: right; display: grid; gap: 6px; justify-items: end; }
+.item .move { font-family: var(--font-display); font-size: 21px; font-weight: 600; letter-spacing: 0.231px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.item .actions { display: flex; gap: var(--s-sm); margin-top: 4px; }
+.linkbtn { background: none; border: 0; padding: 0; color: var(--primary); cursor: pointer; font-size: 14px; letter-spacing: -0.224px; }
+.tag-ex { font-size: 12px; color: var(--ink-48); font-weight: 400; margin-left: 6px; }
 .addrow { display: flex; flex-wrap: wrap; gap: var(--s-xs); margin-top: var(--s-lg); justify-content: center; }
 .addrow input { flex: 1 1 180px; min-width: 0; max-width: 280px; height: 44px; border-radius: var(--r-pill); border: 1px solid rgba(0, 0, 0, 0.08); background: var(--canvas); padding: 12px 20px; }
-.rm { background: none; border: 0; color: var(--primary); cursor: pointer; font-size: 14px; }
-.stat { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: var(--s-sm) var(--s-lg); margin-top: var(--s-md); font-size: 14px; letter-spacing: -0.224px; }
-.stat .n { font-weight: 600; text-align: right; font-variant-numeric: tabular-nums; }
 
 /* 소개 */
 .card ul { margin: var(--s-sm) 0 0; padding-left: 18px; display: grid; gap: var(--s-xs); font-size: 14px; letter-spacing: -0.224px; line-height: 1.43; }
 
+/* 하단 바 */
+.sticky { position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: rgba(245, 245, 247, 0.8); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); border-top: 1px solid rgba(0, 0, 0, 0.08); padding-bottom: env(safe-area-inset-bottom, 0px); }
+.sticky .inner { min-height: 64px; display: flex; align-items: center; justify-content: space-between; gap: var(--s-md); }
+.sticky-text { min-width: 0; font-variant-numeric: tabular-nums; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
 /* 바닥글 */
-.footer { background: var(--parchment); color: var(--ink-80); padding-block: 64px; }
-.footer h3 { font-size: 14px; font-weight: 600; letter-spacing: -0.224px; }
-.footer ul { list-style: none; margin: var(--s-xs) 0 0; padding: 0; font-size: 12px; line-height: 2; letter-spacing: -0.12px; }
-.footer .fine { margin-top: var(--s-lg); padding-top: var(--s-md); border-top: 1px solid var(--hairline); }
-.has-sticky .footer { padding-bottom: 128px; }
+.footer { background: var(--parchment); color: var(--ink-80); padding-block: 48px; }
+.footer .inner { display: grid; gap: var(--s-sm); }
+.footer .links { display: flex; gap: var(--s-lg); flex-wrap: wrap; font-size: 12px; }
+.has-sticky .footer { padding-bottom: 112px; }
+
+#answer, #pick, #refine, #detailView { scroll-margin-top: 64px; }
 
 @media (max-width: 1068px) { .hero-title, .rate { font-size: 40px; line-height: 1.1; } }
 @media (max-width: 734px) {
@@ -201,171 +197,148 @@ td.code { font-weight: 600; font-variant-numeric: tabular-nums; }
   .grid-2 { grid-template-columns: minmax(0, 1fr); }
   .lead { font-size: 21px; line-height: 1.24; }
   .display-lg { font-size: 28px; }
-  .cand { grid-template-columns: auto minmax(0, 1fr); }
-  .cand .annex { justify-self: start; }
-  .cand .desc { grid-column: 1 / -1; }
-  .sticky-text { font-size: 14px; letter-spacing: -0.224px; }
 }
 @media (max-width: 640px) {
   .hero-title { font-size: 34px; }
   .subnav .name { font-size: 17px; }
-  .subnav nav { gap: var(--s-sm); }
+  .subnav nav { gap: var(--s-md); }
   .tab { font-size: 12px; }
-  .gnav .left { display: none; }
-  .gnav .inner { justify-content: flex-end; }
-  .rate { font-size: 34px; }
   .change { grid-template-columns: minmax(0, 1fr); }
   .change .arrow { transform: rotate(90deg); justify-self: center; }
+  .pick, .item { padding: var(--s-sm) var(--s-md); }
+  .sticky-text { font-size: 14px; letter-spacing: -0.224px; }
 }
-@media (max-width: 419px) { .hero-title, .rate { font-size: 28px; } .inner { padding-inline: 16px; } }
-@media (prefers-reduced-motion: reduce) { .btn:active, .chip:active, .tab:active, .cand:active { transform: none; } }
+@media (max-width: 419px) { .hero-title { font-size: 28px; } .inner { padding-inline: 16px; } }
+@media (prefers-reduced-motion: reduce) { .btn:active, .chip:active, .tab:active, .pick:active { transform: none; } }
 </style>
 
 <header class="gnav">
   <div class="inner">
-    <span class="left">우리 모두의 R&amp;D 공모전 · 시연용 MVP</span>
-    <span class="right">
-      <label for="asof">기준일</label>
-      <input type="date" id="asof" min="2026-04-06">
-      <span id="regimeText">규정판 확인 중</span>
-    </span>
+    <span>우리 모두의 R&amp;D 공모전 · 시연용 MVP</span>
+    <span id="regimeText">규정 확인 중</span>
   </div>
 </header>
 <div class="subnav">
   <div class="inner">
-    <span class="name">관세 부속서 내비</span>
+    <button class="name" type="button" id="homeLink">관세 부속서 내비</button>
     <nav role="tablist" aria-label="화면">
-      <button class="tab" role="tab" id="tab-judge" aria-controls="judge" aria-selected="true">품목 판정</button>
+      <button class="tab" role="tab" id="tab-home" aria-controls="home" aria-selected="true">관세 확인</button>
       <button class="tab" role="tab" id="tab-alerts" aria-controls="alerts" aria-selected="false">내 품목 알림</button>
-      <button class="tab" role="tab" id="tab-about" aria-controls="about" aria-selected="false">이 서비스는</button>
     </nav>
   </div>
 </div>
 
 <main>
-  <div id="judge" role="tabpanel" aria-labelledby="tab-judge">
-    <section class="tile light center hero">
+  <!-- 1. 관세 확인 -->
+  <div id="home" role="tabpanel" aria-labelledby="tab-home">
+    <section class="tile light center">
       <div class="inner">
-        <h1 class="hero-title">우리 제품, 미국 관세 몇 %?</h1>
-        <p class="lead">HS코드나 제품명만 넣으면 부속서 원문 근거와 함께 알려드립니다.</p>
+        <h1 class="hero-title">미국에 수출할 제품, 관세가 얼마일까요?</h1>
+        <p class="lead">제품 이름이나 HS코드를 넣어보세요.</p>
         <form class="search" id="searchForm">
-          <input id="q" type="search" autocomplete="off" placeholder="예: 7318.15.20 또는 볼트" aria-label="HS코드 또는 제품명">
-          <button class="btn btn-primary" type="submit">찾기</button>
+          <input id="q" type="search" autocomplete="off" placeholder="예: 볼트, 지게차, 7318.15.20" aria-label="제품 이름 또는 HS코드">
+          <button class="btn btn-primary" type="submit">확인하기</button>
         </form>
-        <div class="chips" id="examples"><span class="chips-label fine">예시로 눌러보기</span></div>
-        <p class="fine" style="margin-top: 24px">미국 232조 철강·알루미늄·구리 관세 · 한국산 기준 · 2026년 4월 6일 이후 통관분</p>
+        <div class="chips" id="examples"></div>
+        <p class="fine hint">미국 철강·알루미늄·구리 관세(232조) 기준 · 한국산 제품</p>
       </div>
     </section>
 
-    <section class="tile parchment">
-      <div class="inner">
-        <div class="card cand-card" id="candCard" hidden>
-          <h3 class="tagline">세부 코드 고르기</h3>
-          <p class="help" id="candNote"></p>
-          <div class="cands" id="cands" role="list"></div>
-        </div>
+    <section class="tile parchment" id="pick" hidden>
+      <div class="inner narrow">
         <div class="section-head">
-          <h2 class="display-lg">판정에 필요한 것만 묻습니다</h2>
-          <p class="muted">바꾸면 아래 판정이 바로 바뀝니다.</p>
+          <h2 class="display-lg">어떤 제품에 가장 가까운가요?</h2>
+          <p class="muted" id="pickNote">고르면 바로 관세를 알려드려요.</p>
         </div>
-        <div class="grid-2">
-          <div class="card">
-            <h3 id="q-metal">금속 무게가 제품 무게의 15% 이상인가요?</h3>
-            <p class="help">강철·알루미늄·구리 무게 기준. 72·73·74·76류가 아니면 15% 미만일 때 232조에서 빠집니다.</p>
+        <div class="picks" id="picks" role="list"></div>
+        <div class="more" id="moreWrap" hidden><button class="btn btn-secondary" type="button" id="moreBtn">더 보기</button></div>
+      </div>
+    </section>
+
+    <section class="tile dark center" id="answer" aria-live="polite">
+      <div class="inner" id="answerInner"></div>
+    </section>
+
+    <section class="tile parchment" id="refine" hidden>
+      <div class="inner narrow">
+        <div class="section-head">
+          <h2 class="display-lg" id="refineTitle">한 가지만 더 알려주세요</h2>
+          <p class="muted">답하면 위 결과가 바로 바뀝니다.</p>
+        </div>
+        <div class="qs">
+          <div class="card" id="q-metal-card" hidden>
+            <h3 id="q-metal">제품 무게에서 철·알루미늄·구리가 15% 이상인가요?</h3>
+            <p class="help">이 제품은 금속이 무게의 15%가 안 되면 철강 관세가 빠져요.</p>
             <div class="opts" role="radiogroup" aria-labelledby="q-metal">
-              <label><input type="radio" name="metal" id="metal-unknown" value="unknown" checked><span>모름</span></label>
-              <label><input type="radio" name="metal" id="metal-ge15" value="ge15"><span>15% 이상</span></label>
-              <label><input type="radio" name="metal" id="metal-lt15" value="lt15"><span>15% 미만</span></label>
+              <label><input type="radio" name="metal" id="metal-ge15" value="ge15"><span>예, 15% 이상</span></label>
+              <label><input type="radio" name="metal" id="metal-lt15" value="lt15"><span>아니요, 15% 미만</span></label>
+              <label><input type="radio" name="metal" id="metal-unknown" value="unknown" checked><span>잘 모르겠어요</span></label>
             </div>
           </div>
-          <div class="card">
+          <div class="card" id="q-equip-card" hidden>
             <h3 id="q-equip">지게차·굴착기·농기계·산업기계를 만드는 데만 쓰는 부품인가요?</h3>
-            <p class="help">6월 조정 이후 84·85·87류 부품이면 일반관세 포함 합계 15% 상한입니다.</p>
+            <p class="help">그런 부품이면 관세가 최대 15%로 줄어요.</p>
             <div class="opts" role="radiogroup" aria-labelledby="q-equip">
-              <label><input type="radio" name="equip" id="equip-no" value="no" checked><span>아니오</span></label>
               <label><input type="radio" name="equip" id="equip-yes" value="yes"><span>예</span></label>
+              <label><input type="radio" name="equip" id="equip-no" value="no" checked><span>아니요</span></label>
             </div>
-          </div>
-          <div class="card">
-            <h3 id="q-us">들어간 금속 중 미국산 비율은?</h3>
-            <p class="help">4월판은 95% 이상, 6월판은 85% 이상이면 10%입니다.</p>
-            <div class="opts" role="radiogroup" aria-labelledby="q-us">
-              <label><input type="radio" name="usmetal" id="us-low" value="0" checked><span>85% 미만</span></label>
-              <label><input type="radio" name="usmetal" id="us-mid" value="90"><span>85~94%</span></label>
-              <label><input type="radio" name="usmetal" id="us-high" value="100"><span>95% 이상</span></label>
-            </div>
-          </div>
-          <div class="card">
-            <h3 id="q-auto">자동차 부품인가요?</h3>
-            <p class="help">자동차 부품 232조와 겹칠 수 있어 확인할 점을 따로 알려드립니다.</p>
-            <div class="opts" role="radiogroup" aria-labelledby="q-auto">
-              <label><input type="radio" name="auto" id="auto-no" value="no" checked><span>아니오</span></label>
-              <label><input type="radio" name="auto" id="auto-yes" value="yes"><span>예</span></label>
-            </div>
-          </div>
-          <div class="card span-2">
-            <h3><label for="value">통관가격 (미국 달러)</label></h3>
-            <p class="help">넣으면 관세액을 같이 계산합니다.</p>
-            <div class="money"><span>$</span><input id="value" type="text" inputmode="numeric" value="10,000" class="num"></div>
           </div>
         </div>
-      </div>
-    </section>
-
-    <section class="tile dark center" id="verdict" aria-live="polite">
-      <div class="inner" id="verdictInner"></div>
-    </section>
-
-    <section class="tile light" id="detail">
-      <div class="inner">
-        <div class="section-head">
-          <h2 class="display-lg">이렇게 판정했습니다</h2>
-          <p class="muted">판정 순서, 부속서 원문 근거, 6월 조정 전후 비교</p>
-        </div>
-        <div class="grid-2" id="detailGrid"></div>
       </div>
     </section>
   </div>
 
+  <!-- 2. 자세히 보기 -->
+  <div id="detailView" hidden>
+    <section class="tile light">
+      <div class="inner">
+        <button class="back" type="button" id="backBtn">‹ 결과로 돌아가기</button>
+        <h1 class="display-lg" id="detailTitle" style="margin-top: 24px">왜 이런 결과인가요?</h1>
+        <p class="muted" id="detailLead" style="margin-top: 8px"></p>
+        <div class="card" style="margin-top: 32px">
+          <h3>먼저 알아두면 좋은 말</h3>
+          <div class="glossary">
+            <div class="gl"><b>232조 관세</b>미국이 철강·알루미늄·구리 제품에 따로 매기는 관세</div>
+            <div class="gl"><b>부속서</b>세율별로 품목 코드를 적어둔 미국 정부 목록</div>
+            <div class="gl"><b>I-A 50% · I-B 25%</b>제품 가격 전체에 더 붙는 세율</div>
+            <div class="gl"><b>I-C · III 최대 15%</b>다른 관세와 합쳐 15%를 넘지 않는 목록</div>
+            <div class="gl"><b>II</b>232조 대상에서 뺀 품목</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="tile parchment">
+      <div class="inner grid-2" id="detailGrid"></div>
+    </section>
+  </div>
+
+  <!-- 3. 내 품목 알림 -->
   <div id="alerts" role="tabpanel" aria-labelledby="tab-alerts" hidden>
     <section class="tile light center">
       <div class="inner">
-        <h1 class="hero-title">규정이 바뀌면, 내 품목부터 알려드립니다.</h1>
-        <p class="lead">4월 개편판과 6월 조정판 부속서를 비교해 등록한 품목이 어떻게 바뀌었는지 보여줍니다.</p>
+        <h1 class="hero-title">규정이 바뀌면, 내 품목부터 알려드려요.</h1>
+        <p class="lead" id="alertsLead">6월 8일 조정으로 바뀐 품목을 먼저 보여드려요.</p>
       </div>
     </section>
     <section class="tile parchment">
-      <div class="inner wide stack">
-        <div class="card table-card">
-          <table>
-            <thead><tr><th>품목</th><th>코드</th><th>4월 개편판</th><th>6월 조정판</th><th>변경</th><th></th></tr></thead>
-            <tbody id="watchBody"></tbody>
-          </table>
-        </div>
+      <div class="inner narrow">
+        <div class="items" id="items"></div>
         <form class="addrow" id="addForm">
           <input id="addName" type="text" placeholder="품목 이름" aria-label="추가할 품목 이름">
-          <input id="addCode" type="text" placeholder="코드 (예: 8429.52.10)" aria-label="추가할 품목 코드" class="num">
+          <input id="addCode" type="text" placeholder="HS코드 (예: 8429.52.10)" aria-label="추가할 품목 HS코드" class="num">
           <button class="btn btn-secondary" type="submit">품목 추가</button>
         </form>
-        <p class="fine" id="addMsg" style="text-align: center"></p>
-      </div>
-    </section>
-    <section class="tile light">
-      <div class="inner">
-        <div class="section-head">
-          <h2 class="display-lg">6월 조정에서 바뀐 줄</h2>
-          <p class="muted">부속서 줄 단위로 센 숫자입니다.</p>
-        </div>
-        <div class="card" style="max-width: 560px; margin: 0 auto"><div class="stat" id="diffStats" style="margin-top: 0"></div></div>
+        <p class="fine" id="addMsg" style="text-align: center; margin-top: 12px"></p>
       </div>
     </section>
   </div>
 
-  <div id="about" role="tabpanel" aria-labelledby="tab-about" hidden>
+  <!-- 4. 이 서비스는 -->
+  <div id="about" hidden>
     <section class="tile light center">
       <div class="inner">
         <h1 class="hero-title">판정은 규칙으로. 분류는 R&amp;D로.</h1>
-        <p class="lead">MVP는 사람이 검수한 부속서 데이터로 판정합니다. 규정 변환과 품목 분류를 자동으로 만드는 일이 R&amp;D입니다.</p>
+        <p class="lead">지금은 사람이 검수한 부속서 데이터로 판정합니다. 규정이 바뀔 때 자동으로 반영하고, 제품 정보만으로 품목을 고르는 일이 R&amp;D 과제입니다.</p>
       </div>
     </section>
     <section class="tile parchment">
@@ -373,17 +346,16 @@ td.code { font-weight: 600; font-variant-numeric: tabular-nums; }
         <div class="card">
           <h3 class="tagline">무엇을 하나</h3>
           <ul>
-            <li>품목 코드가 미국 232조 부속서(I-A, I-B, I-C, II, III) 중 어디에 들어가는지 찾습니다.</li>
-            <li>15% 무게 규칙, 협정국 15% 상한, 미국산 금속 10%, 가장 낮은 세율 규칙을 순서대로 적용합니다.</li>
-            <li>판정에 쓴 부속서 줄과 원문 PDF를 보여주고, 바이어에게 보낼 근거 문장을 만듭니다.</li>
+            <li>제품이 미국 232조 부속서 중 어디에 들어가는지 찾아 세율을 알려줍니다.</li>
+            <li>판정에 쓴 미국 정부 문서와 근거 문장을 보여줍니다.</li>
             <li>등록한 품목이 규정 개정으로 어떻게 바뀌는지 알려줍니다.</li>
           </ul>
         </div>
         <div class="card">
           <h3 class="tagline">R&amp;D로 만들 것</h3>
           <ul>
-            <li>포고문과 부속서가 새로 나오면 자동으로 규칙 데이터로 바꾸고 바뀐 줄을 찾는 기술</li>
-            <li>도면, 자재 목록, 제품 설명으로 미국 품목번호(HTS 10자리)를 고르고 근거를 남기는 분류 AI</li>
+            <li>새 포고문과 부속서를 자동으로 규칙 데이터로 바꾸고 바뀐 줄을 찾는 기술</li>
+            <li>도면, 자재 목록, 제품 설명으로 미국 품목번호를 고르고 근거를 남기는 분류 AI</li>
             <li>자재 목록으로 금속 무게 비율을 추정하는 기술</li>
           </ul>
         </div>
@@ -391,9 +363,9 @@ td.code { font-weight: 600; font-variant-numeric: tabular-nums; }
           <h3 class="tagline">아직 확인 중인 것</h3>
           <ul>
             <li>I-B 일반 품목에도 한국산 15% 상한이 적용되는지</li>
-            <li>자동차 부품 232조(한국 15%)와 금속 232조가 겹칠 때 어느 쪽이 걸리는지</li>
-            <li>301조 12.5%와 한미 FTA 무관세의 관계</li>
-            <li>미국 일반관세율 데이터 (합계 상한 금액을 정확히 내는 데 필요)</li>
+            <li>자동차 부품 관세와 철강 관세가 겹칠 때 어느 쪽이 걸리는지</li>
+            <li>301조 관세와 한미 FTA 무관세의 관계</li>
+            <li>미국 일반관세율 (합계 15% 품목의 정확한 금액에 필요)</li>
           </ul>
         </div>
         <div class="card">
@@ -408,14 +380,15 @@ td.code { font-weight: 600; font-variant-numeric: tabular-nums; }
 
 <footer class="footer">
   <div class="inner">
-    <p class="fine" style="margin-top: 0; padding-top: 0; border-top: 0">이 화면은 산업통상부 『우리 모두의 R&amp;D』 공모전 시연용 MVP입니다. 판정 결과는 참고용이며, 실제 통관 전에는 관세사나 코트라 무역장벽 119로 확인하세요.</p>
+    <div class="links"><a href="#about" id="aboutLink">이 서비스에 대해</a><a href="https://github.com/mnunu123/tariff-navi" target="_blank" rel="noopener">GitHub</a></div>
+    <p class="fine">산업통상부 『우리 모두의 R&amp;D』 공모전 시연용 MVP입니다. 결과는 참고용이며, 실제 통관 전에는 관세사나 코트라 무역장벽 119로 확인하세요.</p>
   </div>
 </footer>
 
 <div class="sticky" id="stickyBar" hidden>
   <div class="inner">
-    <div class="sticky-text"><div class="k" id="stickyKey"></div><div id="stickyText"></div></div>
-    <a class="btn btn-primary" href="#verdict" id="stickyBtn">판정 보기</a>
+    <div class="sticky-text" id="stickyText"></div>
+    <a class="btn btn-primary" href="#answer" id="stickyBtn">결과 보기</a>
   </div>
 </div>
 

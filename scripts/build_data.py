@@ -35,6 +35,7 @@ def compact(entries):
     return [merged[k] for k in order]
 
 
+KO = {k.replace(".", ""): v for k, v in json.load(open("data/ko-names.json", encoding="utf-8")).items()}  # 부속서 품명 한국어, 숫자만으로 찾음
 apr_c = compact(apr)
 jun = [e for e in apr if e["annex"] == "I-A"]
 jun += [e for e in jun_part if e["annex"] in ("I-B", "I-C", "III")]
@@ -61,6 +62,8 @@ FILE_SOURCE = {
 for rid, lst in (("2026-04-06", apr_c), ("2026-06-08", jun_c)):
     for e in lst:
         e["src"] = FILE_SOURCE[(rid, e["a"])]
+        if e["c"].replace(".", "") in KO:
+            e["k"] = KO[e["c"].replace(".", "")]
         if rid == "2026-06-08" and e["a"] in ("I-A", "II"):
             # 6월판 쪽수는 4월 PDF 기준이라 쪽수는 빼고 출처만 남긴다
             e.pop("p", None)
